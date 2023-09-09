@@ -1,0 +1,90 @@
+# English translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-05-21 13:58+0500\n"
+"PO-Revision-Date: 2022-05-21 13:59+0500\n"
+"Last-Translator:   <>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: i18n_example.py:30 multilang.py:82
+msgid "Hello, <b>{user}</b>!"
+msgstr ""
+
+#: i18n_example.py:36 multilang.py:90
+msgid "Your current language: <i>{language}</i>"
+msgstr ""
+
+#: multilang.py:62 multilang.py:127
+msgid "One"
+msgstr ""
+
+#: multilang.py:63 multilang.py:132
+msgid "Two"
+msgstr ""
+
+#: multilang.py:64 multilang.py:137
+msgid "Three"
+msgstr ""
+
+#: multilang.py:71
+msgid "🇺🇿 Uzbek"
+msgstr ""
+
+#: multilang.py:72
+msgid "🇷🇺 Russian"
+msgstr ""
+
+#: multilang.py:73
+msgid "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
+msgstr ""
+
+#: multilang.py:99
+msgid ""
+"Specify your language.\n"
+"Example: /setlang en"
+msgstr ""
+
+#: multilang.py:101
+msgid "This language is not available. Use en or ru or uz"
+msgstr ""
+
+#: multilang.py:106
+msgid "Language set."
+msgstr ""
+
+#: multilang.py:129
+msgid "Really one"
+msgstr ""
+
+#: multilang.py:134
+msgid "Really two"
+msgstr ""
+
+#: multilang.py:139
+msgid "Really three"
+msgstr ""
+
+#: backend/config/settings.py:120
+msgid "English"
+msgstr ""
+
+#: backend/config/settings.py:121
+msgid "Russian"
+msgstr ""
+
+#: backend/config/settings.py:122
+msgid "Uzbek"
+msgstr ""

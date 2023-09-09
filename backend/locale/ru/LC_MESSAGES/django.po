@@ -1,0 +1,92 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-05-21 13:58+0500\n"
+"PO-Revision-Date: 2022-05-21 14:03+0500\n"
+"Last-Translator:   <>\n"
+"Language-Team: ru <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: i18n_example.py:30 multilang.py:82
+msgid "Hello, <b>{user}</b>!"
+msgstr "Здравствуйте, <b>{user}</b>!"
+
+#: i18n_example.py:36 multilang.py:90
+msgid "Your current language: <i>{language}</i>"
+msgstr "Ваш текущий язык: <i>{language}</i>"
+
+#: multilang.py:62 multilang.py:127
+msgid "One"
+msgstr "Один"
+
+#: multilang.py:63 multilang.py:132
+msgid "Two"
+msgstr "Два"
+
+#: multilang.py:64 multilang.py:137
+msgid "Three"
+msgstr "Три"
+
+#: multilang.py:71
+msgid "🇺🇿 Uzbek"
+msgstr "🇺🇿 Узбекский"
+
+#: multilang.py:72
+msgid "🇷🇺 Russian"
+msgstr "🇷🇺 Русский"
+
+#: multilang.py:73
+msgid "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
+msgstr "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Английский"
+
+#: multilang.py:99
+msgid ""
+"Specify your language.\n"
+"Example: /setlang en"
+msgstr ""
+"Укажите свой язык.\n"
+"Пример: /setlang uz"
+
+#: multilang.py:101
+msgid "This language is not available. Use en or ru or uz"
+msgstr "Этот язык недоступен. Используйте en или ru или uz"
+
+#: multilang.py:106
+msgid "Language set."
+msgstr "Набор языков."
+
+#: multilang.py:129
+msgid "Really one"
+msgstr "Действительно один"
+
+#: multilang.py:134
+msgid "Really two"
+msgstr "Действительно два"
+
+#: multilang.py:139
+msgid "Really three"
+msgstr "Действительно три"
+
+#: backend/config/settings.py:120
+msgid "English"
+msgstr "Английский"
+
+#: backend/config/settings.py:121
+msgid "Russian"
+msgstr "Русский"
+
+#: backend/config/settings.py:122
+msgid "Uzbek"
+msgstr "Узбекский"

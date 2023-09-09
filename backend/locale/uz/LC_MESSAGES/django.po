@@ -1,0 +1,92 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-05-21 13:58+0500\n"
+"PO-Revision-Date: 2022-05-21 14:06+0500\n"
+"Last-Translator:   <>\n"
+"Language-Team: uz <LL@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: i18n_example.py:30 multilang.py:82
+msgid "Hello, <b>{user}</b>!"
+msgstr "Salom, <b>{user}</b>!"
+
+#: i18n_example.py:36 multilang.py:90
+msgid "Your current language: <i>{language}</i>"
+msgstr "Joriy tilingiz: <i>{language}</i>"
+
+#: multilang.py:62 multilang.py:127
+msgid "One"
+msgstr "Bir"
+
+#: multilang.py:63 multilang.py:132
+msgid "Two"
+msgstr "Ikki"
+
+#: multilang.py:64 multilang.py:137
+msgid "Three"
+msgstr "Uch"
+
+#: multilang.py:71
+msgid "🇺🇿 Uzbek"
+msgstr "🇺🇿 O'zbek tili"
+
+#: multilang.py:72
+msgid "🇷🇺 Russian"
+msgstr "🇷🇺 Rus tili"
+
+#: multilang.py:73
+msgid "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
+msgstr "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ingliz tili"
+
+#: multilang.py:99
+msgid ""
+"Specify your language.\n"
+"Example: /setlang en"
+msgstr ""
+"Tilingizni belgilang.\n"
+"Misol: /setlang ru"
+
+#: multilang.py:101
+msgid "This language is not available. Use en or ru or uz"
+msgstr "Bu til mavjud emas. en yoki ru yoki uz dan foydalaning"
+
+#: multilang.py:106
+msgid "Language set."
+msgstr "Til sozlandi."
+
+#: multilang.py:129
+msgid "Really one"
+msgstr "Rostan ham bir"
+
+#: multilang.py:134
+msgid "Really two"
+msgstr "Rostan ham ikki"
+
+#: multilang.py:139
+msgid "Really three"
+msgstr "Rostan ham uch"
+
+#: backend/config/settings.py:120
+msgid "English"
+msgstr "Ingliz tili"
+
+#: backend/config/settings.py:121
+msgid "Russian"
+msgstr "Rus tili"
+
+#: backend/config/settings.py:122
+msgid "Uzbek"
+msgstr "O'zbek tili"
